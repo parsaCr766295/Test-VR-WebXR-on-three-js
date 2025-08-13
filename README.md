@@ -1,5 +1,5 @@
 # WebXR VR Demo with Three.js
-
+<img width="1201" height="786" alt="20250813_1709_Three js VR Experience_simple_compose_01k2htbn81eyxt3vgq07t2y645" src="https://github.com/user-attachments/assets/cc72f25a-08e8-44bf-a762-104d14952a59" />
 This is a simple WebXR VR demo using Three.js. It creates a 3D scene with a green cube and a floor that you can view in VR mode.
 
 ![Static Badge](https://img.shields.io/badge/View%20in-VR%20mode-brightgreen?style=plastic)
